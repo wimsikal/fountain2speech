@@ -1,0 +1,32 @@
+{
+    "ALEX": {
+        "voice": {
+            "languageCode": "en-US",
+            "name": "en-US-Wavenet-F"
+        }
+    },
+    "BOB": {
+        "voice": {
+            "languageCode": "en-US",
+            "name": "en-US-Wavenet-B"
+        }
+    },
+    "CINDY": {
+        "voice": {
+            "languageCode": "en-US",
+            "name": "en-US-Wavenet-C"
+        }
+    },
+    "DAVE": {
+        "voice": {
+            "languageCode": "en-US",
+            "name": "en-US-Wavenet-D"
+        }
+    },
+    "ELI": {
+        "voice": {
+            "languageCode": "en-US",
+            "name": "en-US-Wavenet-E"
+        }
+    }
+}
